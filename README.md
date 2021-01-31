@@ -30,9 +30,10 @@ For a deeper look into the variations in fare by city type, see the Total Fair b
 <br/><br/>
 ## Summary
 
-Based on this analysis, I would make the following business recommendations 
-1. Further analysis to determine population size and density. 
+Based on this analysis, I would make the following business recommendations to the CEO for addressing any disparities among city types.
 
-2. Increase the price the price per ride. 
+ 1. First, I would advise a deeper analysis into the Urban City types, knowing that there is likely competition with other Ride Sharing Apps. Based on this, it would benefit Pyber to have a greater understanding of how many Ride Share users there are in the Urban Cities they operate within. This date would provide greater insight into how they can elevate their services and increase the Total Ride number in relation to the Total Drivers. If the Urban cities were able to reach the same Total Rides to Total Drivers ratio as the Suburban city type, the Average Fare per Driver would increase to approximately $29.44 followed by a $30,000 increase in Total Fares.   
 
-3. Adjust pricing architechture in suburban and rural neighbourhoods.
+ 2. In the interest of improving access to ride sharing services, I would recomment that PyBer creates a srategy to increate their Total Drivers in Rural cities. If PyBer drivers are more accessible in these cities, the population might be more apt to join the ride sharing app. 
+
+ 3. After increasing Total Drivers in Rural cities, I would also recomment adjusting the pricing architechture in Suburban and Rural neighbourhoods. Knowing that riders are more likely to be travelling greater distances in these city types, reduring the Average Fare per Ride could increase the overal Total Rides, as well as the overall Total Fares.
