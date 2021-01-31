@@ -5,6 +5,10 @@ The purpose of this assignment was to perform exploratory analysis of data for P
 
 ## Results
 
+ <img align="center" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/pyber_summary.png">
+ 
+ <img align="right" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/Fig5.png" width=500>
+ 
 Urban cities have the most drivers, rides and total fares, however their average Fare per Ride and average dare per Driver is the lowest of all three city types. 
 
 While Rural cities have the least amout of drivers and total rides, they have the highest Average Fare per Ride and Average fare per driver. 
