@@ -1,10 +1,10 @@
 # PyBer Analysis
 ## Purpose
-
+<br/>
 The purpose of this assignment was to perform exploratory analysis of data for PyBer, a Python-based ride sharing company. This analysis was performed to discover the realtionship between city types, drivers and riders as well as the total fares by riders, drivers and city type. The ultimate goal of this analysis is to help Pyber improve access to ride sharing services and determine affordability for underserved neighbourhoods.
 <br/><br/>
 ## Results
-<br/>
+<br/><br/>
  <img align="center" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/pyber_summary.png">
  
  <img align="right" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/Fig5.png" width=500 >
