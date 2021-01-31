@@ -26,7 +26,7 @@ For a deeper look into the variations in fare by city type, see the Total Fair b
 <br/><br/>
 <img align="center" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png">
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 ## Summary
 
 Based on this analysis, I would make the following business recommendations 
