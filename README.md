@@ -15,7 +15,7 @@ While Rural cities have the least amout of drivers and total rides, they have th
 
 Suburban cities are consistently in the middle of Rural and Urban cities for all metrics that were analyzed. 
 <br/><br/>
-<img align="left" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/Fig7.png" width=500>
+<img align="center" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png">
 
 
 <br/><br/><br/><br/><br/>
