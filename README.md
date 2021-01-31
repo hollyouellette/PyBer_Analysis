@@ -14,11 +14,11 @@ Urban cities have the most drivers, rides and total fares, however their average
 While Rural cities have the least amout of drivers and total rides, they have the highest Average Fare per Ride and Average fare per driver. 
 
 Suburban cities are consistently in the middle of Rural and Urban cities for all metrics that were analyzed. 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 <img align="left" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/Fig7.png" width=500>
 
 
-<br/><br/>
+<br/><br/><br/><br/><br/>
 ## Summary
 
 1. Further analysis to determine population size and density. 
