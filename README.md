@@ -5,7 +5,7 @@ The purpose of this assignment was to perform exploratory analysis of data for P
 <br/><br/>
 
 ## Results
-<br/><br/>
+<br/>
  <img align="center" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/pyber_summary.png">
  
  <img align="right" src="https://github.com/hollyouellette/PyBer_Analysis/blob/main/Analysis/Fig5.png" width=500 >
